@@ -23,9 +23,9 @@ searchAgents.py
 .
 
 
-### <For_details_open_"Pdf_files_(Problem_statement_&_Solution)/Task-Document.pdf"_document>
+### <For_details_open_"Document_(Task_detail_&_solution)/Task-Document.pdf">
 
-### <documented_solution_report_provided_as_"Pdf_files_(Problem_statement_&_Solution)/Detailed-report-(Solution).pdf"_document>
+### <documented_solution_report_provided_as_"Document_(Task_detail_&_solution)/Detailed-report-(Solution).pdf">
 
 ### <refernce_code_provided_as_"search.zip">
 
